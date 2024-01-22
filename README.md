@@ -2,4 +2,9 @@
 
 数据: https://www.kaggle.com/datasets/vsdf2898kaggle/osocrtraining
 
-模型、文档将在接收后(最终稿提交前)释出
+模型:
+
+https://drive.google.com/file/d/1Zw9ylDvOuJ7IP6vM1l8kvr94kbGOpahU/view?usp=sharing
+
+文档:
+manul.pdf
