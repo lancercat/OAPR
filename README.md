@@ -1,6 +1,6 @@
 
 
-审查中论文: Open-Set Text Recognition with Part-Based Similarity 的代码
+Open-Set Text Recognition with Part-Based Similarity 的代码
 
 数据: https://www.kaggle.com/datasets/vsdf2898kaggle/osocrtraining
 
